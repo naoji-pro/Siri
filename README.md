@@ -28,7 +28,7 @@
 
 最後に音声アシスタントを作成するにあたって、参考にしたものを書き記します。
 
-プログラマーとithubのソースコード
+プログラマーとgithubのソースコード
 Ashutosh Krishna/Virtual-Personal-Assistant-using-Python
 
 youtube channel
